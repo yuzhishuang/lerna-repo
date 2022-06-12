@@ -1,5 +1,5 @@
 {
-  "name": "moduleA",
+  "name": "module-yzs-b",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.6.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "zepto": "^1.2.0"
   },
-  "gitHead": "01550f2eec2a2fc0e6bf3dcf6a9b6ba430f2dde2"
+  "gitHead": "94ab149b31c95ca6260f8bf428c423a9f726a544"
 }
