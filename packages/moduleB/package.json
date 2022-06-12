@@ -12,5 +12,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "zepto": "^1.2.0"
-  }
+  },
+  "gitHead": "a61ab46c17d3ec237426977a9e8b7d2b62106199"
 }

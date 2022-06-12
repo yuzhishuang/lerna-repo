@@ -12,5 +12,6 @@
   "dependencies": {
     "jquery": "^3.6.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "a61ab46c17d3ec237426977a9e8b7d2b62106199"
 }

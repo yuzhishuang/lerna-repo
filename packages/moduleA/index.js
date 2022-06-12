@@ -1,2 +1,2 @@
 
-console.log('moduleA');
+console.log('moduleA-update');
